@@ -1,1 +1,1 @@
-# algorithm-masters
+# Algorithms
